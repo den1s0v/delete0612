@@ -1,3 +1,4 @@
+from calculator import multiply
 from calculator import divide
 
 def run(): pass
