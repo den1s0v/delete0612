@@ -1,6 +1,8 @@
 from app import run
 
-def main(): pass
+def main():
+    # Вызвать главную функцию программы
+    run()
 
 # NO KARA for EP!
 
