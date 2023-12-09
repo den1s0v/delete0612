@@ -1,3 +1,5 @@
+from calculator import divide
+
 def run(): pass
 
 def main_loop():
