@@ -1,3 +1,5 @@
+from app import run
+
 def main(): pass
 
 # NO KARA for EP!
