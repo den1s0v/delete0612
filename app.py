@@ -5,4 +5,6 @@ def main_loop():
     # TODO
     ...
 
-def stop(): pass
+def stop(): 
+    # Остановка и освобождение ресурсов
+    pass
