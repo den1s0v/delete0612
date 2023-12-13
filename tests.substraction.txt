@@ -1,0 +1,10 @@
+from calculator import divine
+
+def run(): 
+	assert 2 == divine(10, 5)
+	assert 5 == divine(10, 2)
+	assert 0 == divine(0, 2)
+	assert 0 == divine(2, 0)
+	assert 2 == divine(0, 0)
+
+run()
