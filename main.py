@@ -1,5 +1,7 @@
 from app import run
 
+# just a comment here.
+
 def main():
     # Вызвать главную функцию программы
     run()
