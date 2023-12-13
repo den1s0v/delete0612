@@ -1,6 +1,8 @@
 class Connection:
   def __init__(self, name, password):
-    pass
+    self.name = name
+    self.password = password
+    
 
 def get_conn():
   return Connection(
