@@ -1,4 +1,5 @@
 def subtraction(a,b):
+    """вычитание  a - b"""
     return a-b
 
 def multiply(a, b):
